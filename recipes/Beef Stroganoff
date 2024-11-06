@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Beef Stroganoff</h1>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Beef</li>
+        <li>Worchester Sauce</li>
+        <li>Milk</li>
+        <li>Tomato Paste</li>
+        <li>Olive Oil</li>
+        <li>Mushrooms</li>
+        <li>Onion</li>
+        <li>Garlic</li>
+        <li>Sour Cream</li>
+        <li>Beef Stock</li>
+        <li>Cornstarch</li>
+        <li>Fettucine (or other pasta)</li>
+        <li>Parsley (for garnish)</li>
+        <li>Water</li>
+        <li>Salt (to taste)</li>
+    </ul>
+    <ol>
+        <li>Boil water and add salt. Boil pasta for the recommended directions.</li>
+        <li>Cut beef into wafer thin strips and then let marinate in worchester sauce for at least 10 minutes</li>
+        <li>Take the beef strips and stir fry with garlic for 3 minutes, or until lightly browned.</li>
+        <li>Add onion and mushrooms, stir fry for another 2 minutes.</li>
+        <li>Mix the cornstarch with a bit of milk and then add to the pan with the rest of the milk, the tomato paste, and the beef stock.</li>
+        <li>Continuously stir over heat until mixture thickens, then reduce to a simmer, uncovered for 2 minutes.</li>
+        <li> Serve over combined fettucine and parsley and serve hot.</li>
+    </ol>
+</body>
+</html>
